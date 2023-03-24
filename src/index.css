@@ -68,6 +68,7 @@ body{
 }
  .read-more{
     color: rgb(75, 174, 235);
+    cursor: pointer;
  }
  .btn{
     margin-top: 18px;

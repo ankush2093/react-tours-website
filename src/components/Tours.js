@@ -6,7 +6,7 @@ const Tours = ({tours, removeTour }) => {
   return (
     <div className='container'>
         <div className='title'>
-            <h2>Plan Journy </h2>
+            <h2>Plan A Journy With Me </h2>
         </div>
         <div className='cards'>
             {
@@ -16,7 +16,7 @@ const Tours = ({tours, removeTour }) => {
             }
         </div>
 
-        <h1 className='me'>Helooo Ths is me</h1>
+       
 
     </div>
   )
