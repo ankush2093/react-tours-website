@@ -8,7 +8,7 @@
 <h3> This is Ui of this project<h3/>
 <p> https://ankush2093.github.io/react-tours-website/<p/>
 
-<h3> This Ui o<h3/>
+
 
 <img width="1440" alt="Screenshot 2566-04-08 at 11 48 08 PM" src="https://user-images.githubusercontent.com/84925305/230736903-c61fb00c-cee9-40bb-b15b-b7a2c0ff2a00.png">
 
