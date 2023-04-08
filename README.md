@@ -3,7 +3,7 @@
 <h3>&#x2022; React</h3>
 <h3>&#x2022; Tailwind</h3>
 <h3>&#x2022; Api of blog</h3>
-<h1> Download this project free and Dont Forget Give Star &star; &starf; &bigstar;  <h1/>
+<h2> Download this project free and Dont Forget Give us Star &star; &starf; &bigstar;  <h2/>
 <hr>
 <h3> This is Ui of this project<h3/>
 <p> https://ankush2093.github.io/react-tours-website/<p/>
